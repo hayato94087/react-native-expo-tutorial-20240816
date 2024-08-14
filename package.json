@@ -1,7 +1,7 @@
 {
   "name": "react-native-expo-tutorial",
   "version": "1.0.0",
-  "main": "expo/AppEntry.js",
+  "main": "src/App.tsx",
   "scripts": {
     "clean": "git clean -xdf .cache .expo android ios node_modules",
     "start": "expo start",
